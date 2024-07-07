@@ -60,14 +60,6 @@ The styles are defined in the `style.css` file and through inline styles within 
 - **Roboto:** Used for general text and form labels.
 - **Norse Bold:** Custom font for the logo text.
 
-### Example Code Snippet
-
-```html
-<div class="form-single">
-    <label for="email">EMAIL</label>
-    <input type="email" name="email" id="email">
-</div>
-
 ## Credits
 
 Sign-Up Form designed by The Odin Project.
